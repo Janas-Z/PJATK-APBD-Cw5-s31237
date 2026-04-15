@@ -1,0 +1,18 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.iml
+# Build outputs
+bin/
+obj/
+# dotnet
+*.db
+.env
+# Rider
+.idea/
+
+# OS
+*.DS_Store
